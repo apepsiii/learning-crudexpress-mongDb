@@ -1,0 +1,2 @@
+# idstack-crudexpress
+ Alhamdulillah, hari ini udah finishing belajar crud dengan express Js. adapun tutor pada pertemuan ini dalah dari youtube IDStack. Selama pelajaran berlangsung, saya mengalami beberapa kendala dan mayoritas disebabkan karena perbedaan versi express dan mongoDb antara local Environment saya dengan video tutor. repo ini saya buat sebagai dokumentasi pribadi agar mudah mengingat saat saya lupa.
